@@ -4,6 +4,16 @@
 
 Hello! I'm Evgenii Gulev, a developer passionate about creating innovative solutions with technology. My journey into programming began with a curiosity for building interactive applications that make a difference. I thrive on challenges and enjoy exploring new technologies to enhance my skills and deliver impactful projects.
 
+### 🔭 Current Projects
+
+- **Web Homepage Design**: Creating a personalized web homepage with custom widgets and interactive elements.
+- **Open Source Contributions**: Actively contributing to projects on GitHub and exploring new libraries and frameworks.
+
+### 🌱 Currently Learning
+
+- Exploring new techniques for optimizing React performance.
+- Deepening my knowledge of Python for machine learning applications.
+
 ### 🔧 Technologies & Skills
 
 #### Languages:
@@ -24,15 +34,6 @@ Hello! I'm Evgenii Gulev, a developer passionate about creating innovative solut
 - **Git**: Utilizing Git for version control and collaborative software development.
 - **GitHub**: Leveraging GitHub for hosting repositories, managing projects, and engaging with the developer community.
 
-### 🔭 Current Projects
-
-- **Web Homepage Design**: Creating a personalized web homepage with custom widgets and interactive elements.
-- **Open Source Contributions**: Actively contributing to projects on GitHub and exploring new libraries and frameworks.
-
-### 🌱 Currently Learning
-
-- Exploring new techniques for optimizing React performance.
-- Deepening my knowledge of Python for machine learning applications.
 
 ### 🚀 Projects
 
