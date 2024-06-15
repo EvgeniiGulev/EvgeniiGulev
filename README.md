@@ -24,6 +24,16 @@ Hello! I'm Evgenii Gulev, a developer passionate about creating innovative solut
 - **Git**: Utilizing Git for version control and collaborative software development.
 - **GitHub**: Leveraging GitHub for hosting repositories, managing projects, and engaging with the developer community.
 
+### 🔭 Current Projects
+
+- **Web Homepage Design**: Creating a personalized web homepage with custom widgets and interactive elements.
+- **Open Source Contributions**: Actively contributing to projects on GitHub and exploring new libraries and frameworks.
+
+### 🌱 Currently Learning
+
+- Exploring new techniques for optimizing React performance.
+- Deepening my knowledge of Python for machine learning applications.
+
 ### 🚀 Projects
 
 #### Featured Projects:
@@ -45,12 +55,3 @@ Feel free to connect with me via email at [egulev.alt@gmail.com](mailto:egulev.a
 - **Open Source Contributions**: I enjoy contributing to open source projects, embracing the collaborative spirit of the developer community.
 - **Coffee Enthusiast**: Fueling my coding sessions with a good cup of coffee ☕ is my secret to staying productive and focused.
 - **Chess Player**: Besides coding, I find joy in playing chess as a way to unwind and exercise strategic thinking.
-
-<!--
-**EvgeniiGulev/EvgeniiGulev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ... My web homepage design with custom widgets
-- 🌱 I’m currently learning ... New techniques for optimizing React performance
--->
