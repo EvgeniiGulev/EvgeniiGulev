@@ -39,6 +39,9 @@ Hello! I'm Evgenii Gulev, a developer passionate about creating innovative solut
 
 #### Featured Projects:
 
+- # [Cardinal-VoiceBot](https://github.com/MahdiOsman/Cardinal-VoiceBot)
+  - A Discord bot that joins voice channels and responds to audio commands.
+  - Easily integrates with your server to enhance user interaction.
 - **[Static-Computer Portfolio](https://github.com/EvgeniiGulev/Static-Computer)**
   - Designed a unique computer-styled portfolio showcasing my skills and projects using HTML, CSS, and JavaScript.
   - Implemented a responsive layout and interactive elements to provide an immersive user experience.
