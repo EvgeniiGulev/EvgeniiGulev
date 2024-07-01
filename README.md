@@ -6,6 +6,7 @@ Hello! I'm Evgenii Gulev, a developer passionate about creating innovative solut
 
 ### 🔭 Current Projects
 
+- **Audio Responsive Discord Bot**: Integrates seamlessly into your server to enhance user interaction.
 - **Web Homepage Design**: Creating a personalized web homepage with custom widgets and interactive elements.
 - **Open Source Contributions**: Actively contributing to projects on GitHub and exploring new libraries and frameworks.
 
