@@ -40,7 +40,7 @@ Hello! I'm Evgenii Gulev, a developer passionate about creating innovative solut
 
 #### Featured Projects:
 
-- **[Cardinal-VoiceBot](https://github.com/MahdiOsman/Cardinal-VoiceBot)**
+- **[Cardinal-VoiceBot](https://github.com/EvgeniiGulev/Cardinal-VoiceBot)**
   - A Discord bot that joins voice channels and responds to audio commands.
   - Easily integrates with your server to enhance user interaction.
 
