@@ -1,63 +1,19 @@
-## 👋 Hi there! I'm Evgenii Gulev
-
-### 🌍 About Me
-
-Hello! I'm Evgenii Gulev, a developer passionate about creating innovative solutions with technology. My journey into programming began with a curiosity for building interactive applications that make a difference. I thrive on challenges and enjoy exploring new technologies to enhance my skills and deliver impactful projects.
-
-### 🔭 Current Projects
-
-- **Audio Responsive Discord Bot**: Integrates seamlessly into your server to enhance user interaction.
-- **Web Homepage Design**: Creating a personalized web homepage with custom widgets and interactive elements.
-- **Open Source Contributions**: Actively contributing to projects on GitHub and exploring new libraries and frameworks.
-
-### 🌱 Currently Learning
-
-- Exploring new techniques for optimizing React performance.
-- Deepening my knowledge of Python for machine learning applications.
-
-### 🔧 Technologies & Skills
-
-#### Languages:
-- **JavaScript**: I use JavaScript for both front-end and back-end development, leveraging its versatility and ecosystem.
-- **Python**: Proficient in Python for data analysis, web development, and scripting tasks.
-- **TypeScript**: Experienced in TypeScript to build scalable and maintainable JavaScript applications.
-- **C++**: Knowledgeable in C++ for algorithmic problem-solving and system-level programming.
-
-#### Front-End:
-- **React**: Skilled in React to create responsive and interactive user interfaces for web applications.
-- **TailwindCSS**: Utilizing TailwindCSS for rapid UI development with its utility-first approach.
-- **HTML & CSS**: Proficient in crafting clean and semantic HTML structures with modern CSS styling.
-
-#### Back-End:
-- **Node.js**: Experienced in building scalable server-side applications and APIs using Node.js.
-
-#### Tools & Version Control:
-- **Git**: Utilizing Git for version control and collaborative software development.
-- **GitHub**: Leveraging GitHub for hosting repositories, managing projects, and engaging with the developer community.
+# 💫 About Me:
+🔭 Currently Working On<br>Audio Responsive Discord Bot: Developing a bot to integrate into servers, enhancing user interaction with responsive audio features.<br>Custom Web Homepage: Crafting a personal web homepage filled with interactive widgets and a unique, user-friendly design.<br>Open Source Contributions: Actively contributing to open-source projects on GitHub, staying involved with the developer community, and exploring emerging libraries and frameworks.<br>🌱 I'm Learning<br>React Optimization: Diving into new techniques for improving React performance and optimizing front-end applications.<br>Machine Learning with Python: Expanding my knowledge of Python for building machine learning models and exploring AI applications.<br>💬 Ask Me About<br>JavaScript and React: I love discussing front-end development, best practices, and ways to create intuitive user interfaces.<br>Open Source Contributions: Curious about getting started with open source or finding the right projects? I’m happy to help!<br>Discord Bot Development: With experience building Discord bots, I'm always up for sharing tips and tricks for bot development.<br>🌟 Fun Facts<br>Coffee Enthusiast: A good cup of coffee fuels my coding sessions and keeps me productive!<br>Chess Player: Beyond coding, I enjoy the strategic challenge of chess as a way to unwind.<br>Open Source Advocate: I love the collaborative spirit of open source, and I’m always excited to give back to the community through contributions.
 
 
-### 🚀 Projects
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/evgenii-gulev-95233b274/) 
 
-#### Featured Projects:
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=for-the-badge) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=EvgeniiGulev&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=EvgeniiGulev&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=EvgeniiGulev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-- **[Cardinal-VoiceBot](https://github.com/EvgeniiGulev/Cardinal-VoiceBot)**
-  - A Discord bot that joins voice channels and responds to audio commands.
-  - Easily integrates with your server to enhance user interaction.
+  ## 💰 You can help me by Donating
+  [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/evgeniigulev) 
 
-- **[Static-Computer Portfolio](https://github.com/EvgeniiGulev/Static-Computer)**
-  - Designed a unique computer-styled portfolio showcasing my skills and projects using HTML, CSS, and JavaScript.
-  - Implemented a responsive layout and interactive elements to provide an immersive user experience.
-
-- **[Discord Anilist Bot](https://github.com/EvgeniiGulev/Discord-Anilist-Bot)**
-  - Developed a Discord bot integrated with the Anilist API to manage anime collections and provide real-time updates.
-  - Implemented features for searching, adding, and recommending anime based on user preferences.
-
-### 📫 How to Reach Me
-
-Feel free to connect with me via email at [egulev.alt@gmail.com](mailto:egulev.alt@gmail.com). I'm open to discussing collaboration opportunities, answering questions about my projects, or simply chatting about technology and programming.
-
-### 🌟 Fun Facts
-
-- **Open Source Contributions**: I enjoy contributing to open source projects, embracing the collaborative spirit of the developer community.
-- **Coffee Enthusiast**: Fueling my coding sessions with a good cup of coffee ☕ is my secret to staying productive and focused.
-- **Chess Player**: Besides coding, I find joy in playing chess as a way to unwind and exercise strategic thinking.
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
